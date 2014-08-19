@@ -1,0 +1,8 @@
+{
+  "name": "app-template",
+  "package_id": "com.modouwifi.app-template",
+  "author": "魔豆路由器",
+  "description": "魔豆路由器应用模板",
+  "homepage": "https://github.com/modouwifi/app-template",
+  "version": "0.0.0"
+}
